@@ -1,10 +1,12 @@
-# Data-Warehouse-Project1
+# 📊Data-Warehouse-Project1
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+[Google](https://www.google.com)
 
 
+---
 
-🚀 Project Requirements
+## 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
 Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
@@ -16,9 +18,9 @@ Integration: Combine both sources into a single, user-friendly data model design
 Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
+---
 
-
-BI: Analytics & Reporting (Data Analysis)
+## BI: Analytics & Reporting (Data Analysis)
 Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
@@ -31,4 +33,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 Hi there! I'm Ayushman Bhargav. A Data Scientist and Machine Learning enthusiast, working towards upgrading my skills and knowledge through a combined learning of Theoretical Concepts as well as practical projects.
 
 Let's stay in touch! Feel free to connect with me on LinkedIn:
-https://www.linkedin.com/in/ayushman-bhargav-94a448279
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayushman-bhargav-94a448279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
