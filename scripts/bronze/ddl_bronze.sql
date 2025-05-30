@@ -1,4 +1,4 @@
-/*DDL - DDL -> Data Definition Language defines the structure of database tables.
+/*DDL -> Data Definition Language defines the structure of database tables.
 		we consult the technical experts of the source system to understand its(the table's) metadata.*/
 
 -- We do either of the 2 processes for our data
