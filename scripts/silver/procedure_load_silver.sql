@@ -1,4 +1,10 @@
 /*
+In this Silver Later we extracted the data from the Bronze Layer and performed Data Cleansing and Data Transformations
+Data Cleansing such as Remove Duplicated, Data Filtering, Handling Missing Data & Invalid Values, Data Triming for Unwanted Spaces, Data Type Casting
+Transformation such as Data Enrichment, Data Ingestion, Derived Columns, Data Normalization & Standardization, Data Aggregations, Applied Business Rules & Logics
+*/
+
+/*
 ===============================================================================
 Stored Procedure: Load Silver Layer (Bronze -> Silver)
 ===============================================================================
