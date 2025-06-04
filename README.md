@@ -106,7 +106,7 @@ data-warehouse-project/
 
 
 ## 🌟 About Me
-Hi there! I'm Ayushman Bhargav. A Data Scientist and Machine Learning enthusiast, working towards upgrading my skills and knowledge through a combined learning of Theoretical Concepts as well as practical projects.
+Hi there! I'm Ayushman Bhargav. My field of interest include Internet of Things(IoT), Data Science and Machine Learning(AI/ML) , working towards upgrading my skills and knowledge through a combined learning of Theoretical Concepts as well as using practical projects to advance my learning.
 
 Let's stay in touch! Feel free to connect with me via LinkedIn:
 <p align="center">
