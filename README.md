@@ -103,5 +103,8 @@ Hi there! I'm Ayushman Bhargav. My field of interest include Internet of Things(
 
 Let's stay in touch! Feel free to connect with me via LinkedIn:
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayushman-bhargav-94a448279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayushman-bhargav-94a448279" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
 </p>
+
