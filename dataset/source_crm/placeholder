@@ -1,1 +1,13 @@
-# This contains Customer Relationship Management Data.
+This contains Customer Relationship Management Data.
+
+CRM systems manage customer-facing operations, including the following:
+
+> Customer profiles and segmentation
+
+> Sales pipeline and interactions
+
+> Marketing campaigns
+
+> Support tickets and service logs
+
+In this dataset: The CRM data includes customer info, communication history, feedback, product information or sales leads, etc.
